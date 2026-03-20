@@ -90,6 +90,16 @@ My engineering background lets me speak both languages: **business** and **code*
 ---
 
 ```
+ Mar 2025 – Oct 2025
+```
+**Teacher / Education Expert** — PNRR Courses *(Italian National Recovery Plan)*
+> Delivered training courses on Gamification, Coding and Cybersecurity for both students and adult learners, as part of the Italian PNRR-funded digital education programme.
+
+`Gamification` `Coding` `Cybersecurity` `Digital Education` `PNRR`
+
+---
+
+```
  2020 – 2022
 ```
 **Game Developer** — MobyBit *(Start-up, Video Games)*
@@ -257,6 +267,16 @@ Il mio background ingegneristico mi permette di parlare entrambi i linguaggi: **
 ---
 
 ```
+ Mar 2025 – Ott 2025
+```
+**Docente / Esperto di Istruzione** — Corsi PNRR *(Piano Nazionale di Ripresa e Resilienza)*
+> Docenza in corsi di Gamification, Coding e Cybersecurity rivolti sia a studenti che ad adulti, nell'ambito del programma di formazione digitale finanziato dal PNRR.
+
+`Gamification` `Coding` `Cybersecurity` `Formazione Digitale` `PNRR`
+
+---
+
+```
  2020 – 2022
 ```
 **Game Developer** — MobyBit *(Start-up, Videogiochi)*
@@ -420,6 +440,16 @@ Mon background en ingénierie me permet de parler les deux langages : **business
 > Coordination de la delivery, Agile/Scrum, gestion des parties prenantes, analyse des exigences, suivi des risques. Intervention sur plateformes web, applications mobiles, intégrations API et infrastructure d'hébergement.
 
 `Agile` `Scrum` `Gestion Parties Prenantes` `Suivi Risques` `API Integration` `cPanel`
+
+---
+
+```
+ Mar 2025 – Oct 2025
+```
+**Enseignant / Expert en Éducation** — Cours PNRR *(Plan National de Relance et Résilience italien)*
+> Animation de formations en Gamification, Coding et Cybersécurité destinées à des étudiants et des adultes, dans le cadre du programme d'éducation numérique financé par le PNRR.
+
+`Gamification` `Coding` `Cybersécurité` `Formation Numérique` `PNRR`
 
 ---
 
