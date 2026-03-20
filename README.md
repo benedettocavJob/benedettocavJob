@@ -1,564 +1,225 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Hi,%20I'm%20[Your%20Name]&fontSize=42&fontColor=e0e0e0&fontAlignY=38&desc=IT%20Project%20Manager%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Telecom%20Engineer&descAlignY=60&descSize=16&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IT%20Project%20Manager%20·%20Developer%20·%20Educator&descAlignY=58&descSize=17&descColor=d0d8ff&animation=fadeIn" width="100%"/>
 
-<!-- LANGUAGE SELECTOR -->
-<a href="#english">🇬🇧 English</a> &nbsp;|&nbsp;
-<a href="#italiano">🇮🇹 Italiano</a> &nbsp;|&nbsp;
-<a href="#français">🇫🇷 Français</a>
+<!-- LANGUAGE SWITCH -->
+<a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧%20English-6c63ff?style=for-the-badge&labelColor=6c63ff&color=6c63ff" /></a>
+&nbsp;
+<a href="./README.it.md"><img src="https://img.shields.io/badge/🇮🇹%20Italiano-ffffff?style=for-the-badge&labelColor=ededff&color=ededff&logoColor=6c63ff" /></a>
+&nbsp;
+<a href="./README.fr.md"><img src="https img.shields.io/badge/🇫🇷%20Français-ffffff?style=for-the-badge&labelColor=ededff&color=ededff&logoColor=6c63ff" /></a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6c63ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Italian%20%7C%20English%20%7C%20French-fluent-4a4a6a?style=for-the-badge"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=7c83fd&center=true&vCenter=true&multiline=false&width=600&lines=Bridging+business+needs+and+development+teams;EU+%26+international+project+delivery;From+requirements+to+release+%E2%80%94+end+to+end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&duration=3000&pause=900&color=6c63ff&center=true&vCenter=true&width=620&lines=Bridging+business+%26+engineering;EU+%26+international+project+delivery;Teaching+Gamification,+Coding+%26+Cybersecurity;From+STM32+to+Scrum+%E2%80%94+full+spectrum" alt="Typing SVG" />
 
 </div>
 
 ---
-
-<br/>
-
-<!-- ============================================================ -->
-<!--                        🇬🇧  ENGLISH                          -->
-<!-- ============================================================ -->
-
-<h2 id="english">🇬🇧 English</h2>
-
-<div align="right"><a href="#italiano">🇮🇹 Italiano</a> &nbsp;|&nbsp; <a href="#français">🇫🇷 Français</a></div>
-
-### `> whoami`
-
-Delivery-focused **IT Project Manager** with hands-on roots in full-stack development and telecom engineering. I work across the full delivery arc — from stakeholder alignment and requirements gathering to technical execution and infrastructure.
-
-My engineering background lets me speak both languages: **business** and **code**.
-
----
-
-### `> skills --list`
 
 <div align="center">
 
-**🗂 Project Management**
+## 🪟 About Me
 
-![Agile](https://img.shields.io/badge/Agile-1c1c2e?style=flat-square&logo=scrumalliance&logoColor=7c83fd)
-![Scrum](https://img.shields.io/badge/Scrum-1c1c2e?style=flat-square&logo=jira&logoColor=7c83fd)
-![Delivery Coordination](https://img.shields.io/badge/Delivery_Coordination-1c1c2e?style=flat-square&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-1c1c2e?style=flat-square&logoColor=white)
-![Risk Tracking](https://img.shields.io/badge/Risk_Tracking-1c1c2e?style=flat-square&logoColor=white)
-![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-1c1c2e?style=flat-square&logoColor=white)
+</div>
 
-**💻 Development**
+I'm a delivery-focused **IT Project Manager** with a hands-on background in full-stack development, telecom engineering, game development and digital education. I work across the full arc — from stakeholder alignment to technical execution — and I've taught Gamification, Coding and Cybersecurity as part of Italy's national digital education programme (PNRR).
 
-![Flutter](https://img.shields.io/badge/Flutter-1c1c2e?style=flat-square&logo=flutter&logoColor=54c5f8)
-![Dart](https://img.shields.io/badge/Dart-1c1c2e?style=flat-square&logo=dart&logoColor=54c5f8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c2e?style=flat-square&logo=javascript&logoColor=f7df1e)
-![REST API](https://img.shields.io/badge/REST_APIs-1c1c2e?style=flat-square&logo=fastapi&logoColor=7c83fd)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1c1c2e?style=flat-square&logo=html5&logoColor=e34f26)
-![Unity](https://img.shields.io/badge/Unity-1c1c2e?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1c1c2e?style=flat-square&logo=csharp&logoColor=9b59b6)
+My engineering roots let me speak both **business** and **code** fluently.
 
-**🛠 Infrastructure & Embedded**
+---
 
-![cPanel](https://img.shields.io/badge/cPanel-1c1c2e?style=flat-square&logo=cpanel&logoColor=ff6c2c)
-![Linux](https://img.shields.io/badge/Linux-1c1c2e?style=flat-square&logo=linux&logoColor=fcc624)
-![STM32](https://img.shields.io/badge/STM32-1c1c2e?style=flat-square&logo=stmicroelectronics&logoColor=03234b)
-![FPGA](https://img.shields.io/badge/FPGA_Nano_9K-1c1c2e?style=flat-square&logoColor=white)
+<div align="center">
+
+## 🛠 Tech Stack
+
+<br/>
+
+**Project & Delivery**
+
+<img src="https://skillicons.dev/icons?i=notion,github,git&theme=light" />
+
+<br/><br/>
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,cs,unity&theme=light" />
+
+<br/><br/>
+
+**Infrastructure & Embedded**
+
+<img src="https://skillicons.dev/icons?i=linux,cpp&theme=light" />
+&nbsp;
+<img src="https://img.shields.io/badge/STM32-03234b?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA_Nano_9K-2d2d5e?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/cPanel-ff6c2c?style=for-the-badge&logo=cpanel&logoColor=white"/>
 
 </div>
 
 ---
 
-### `> career --timeline`
+<div align="center">
 
-```
- 2024 – present
-```
-**IT Project Manager** — EU & International Projects
-> Delivery coordination, Agile/Scrum, stakeholder management, requirements analysis, risk tracking. Working across web platforms, mobile apps, API integrations and hosting infrastructure.
+## 📅 Career Timeline
 
-`Agile` `Scrum` `Stakeholder Management` `Risk Tracking` `API Integration` `cPanel`
+</div>
 
----
-
-```
- Mar 2025 – Oct 2025
-```
-**Teacher / Education Expert** — PNRR Courses *(Italian National Recovery Plan)*
-> Delivered training courses on Gamification, Coding and Cybersecurity for both students and adult learners, as part of the Italian PNRR-funded digital education programme.
-
-`Gamification` `Coding` `Cybersecurity` `Digital Education` `PNRR`
-
----
-
-```
- 2020 – 2022
-```
-**Game Developer** — MobyBit *(Start-up, Video Games)*
-> Contributed to game development in a fast-paced start-up environment. Worked on gameplay mechanics, game logic and interactive systems using Unity and C#.
-
-`Unity` `C#` `Game Development` `Start-up`
-
----
-
-```
- foundations
-```
-**Full-Stack Developer & Telecom Engineer**
-> Built the technical foundation spanning web development, mobile apps, embedded systems (STM32) and FPGA prototyping.
-
-`Flutter` `Dart` `JavaScript` `HTML/CSS` `STM32` `FPGA`
-
----
-
-### `> projects --featured`
+<br/>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🚆 Train Management System**
-
-Business-oriented application focused on workflow logic, management features, and structured app design.
-
-`Project Management` `Backend Logic` `Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-**📱 Flutter Auth Demo**
-
-Authentication prototype focused on login flow, form validation, and scalable app structure.
-
-`Flutter` `Dart` `Mobile`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 Bomberman Game Prototype**
-
-Game project exploring gameplay logic, interaction design, and software architecture patterns.
-
-`Game Logic` `OOP` `Interaction Design`
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ STM32 Embedded Projects**
-
-Hands-on microcontroller experiments involving peripherals and low-level embedded logic.
-
-`C/C++` `STM32` `Embedded`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔌 FPGA Nano 9K Projects**
-
-Digital design and prototyping focused on FPGA experimentation and hardware problem-solving.
-
-`FPGA` `Verilog/VHDL` `Digital Design`
-
-</td>
-<td width="50%" valign="top">
-
-**➕ More coming soon...**
-
-Always experimenting at the intersection of management, software, and hardware.
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://img.shields.io/badge/2024_–_now-6c63ff?style=flat-square&logoColor=white"/><br/>
+      <sub>🟣 Current</sub>
+    </td>
+    <td>
+      <strong>IT Project Manager</strong> — EU & International Projects<br/>
+      <sub>Delivery coordination · Agile/Scrum · Stakeholder management · Risk tracking · API integrations · Hosting infrastructure</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Agile-e8e8ff?style=flat-square&color=ededff&labelColor=6c63ff&logo=scrumalliance&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scrum-ededff?style=flat-square&color=ededff&labelColor=6c63ff&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API_Integration-ededff?style=flat-square&labelColor=6c63ff&logoColor=white"/>
+      <img src="https://img.shields.io/badge/cPanel-ededff?style=flat-square&labelColor=6c63ff&logo=cpanel&logoColor=white"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://img.shields.io/badge/Mar–Oct_2025-a78bfa?style=flat-square"/><br/>
+      <sub>🎓 Education</sub>
+    </td>
+    <td>
+      <strong>Teacher / Education Expert</strong> — PNRR Digital Education Programme<br/>
+      <sub>Delivered courses on Gamification, Coding & Cybersecurity for students and adult learners under Italy's National Recovery Plan</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Gamification-ededff?style=flat-square&labelColor=a78bfa&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Coding-ededff?style=flat-square&labelColor=a78bfa&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cybersecurity-ededff?style=flat-square&labelColor=a78bfa&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PNRR-ededff?style=flat-square&labelColor=a78bfa&logoColor=white"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://img.shields.io/badge/2020_–_2022-38bdf8?style=flat-square"/><br/>
+      <sub>🎮 Game Dev</sub>
+    </td>
+    <td>
+      <strong>Game Developer</strong> — <a href="#">MobyBit</a> <em>(Video Game Start-up)</em><br/>
+      <sub>Gameplay mechanics · Interactive systems · Game logic · Fast-paced start-up environment</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Unity-e0f4ff?style=flat-square&labelColor=38bdf8&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-e0f4ff?style=flat-square&labelColor=38bdf8&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Game_Dev-e0f4ff?style=flat-square&labelColor=38bdf8&logoColor=white"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://img.shields.io/badge/foundations-94a3b8?style=flat-square"/><br/>
+      <sub>⚙️ Core Skills</sub>
+    </td>
+    <td>
+      <strong>Full-Stack Developer & Telecom Engineer</strong><br/>
+      <sub>Web · Mobile · Embedded systems (STM32) · FPGA prototyping · API integrations</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-f1f5f9?style=flat-square&labelColor=94a3b8&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32-f1f5f9?style=flat-square&labelColor=94a3b8&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FPGA-f1f5f9?style=flat-square&labelColor=94a3b8&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### `> what_I_bring`
-
-```
-✔  Strong delivery mindset — from kickoff to production
-✔  Bridge between business stakeholders and dev teams
-✔  Hands-on technical understanding (not just specs)
-✔  Structured, clear communication at every level
-✔  Adaptable in international & multidisciplinary contexts
-✔  Fluent in Italian, English, and French
-```
-
-<div align="right"><a href="#english">⬆ back to top</a></div>
-
-<br/>
-
----
----
-
-<br/>
-
-<!-- ============================================================ -->
-<!--                        🇮🇹  ITALIANO                         -->
-<!-- ============================================================ -->
-
-<h2 id="italiano">🇮🇹 Italiano</h2>
-
-<div align="right"><a href="#english">🇬🇧 English</a> &nbsp;|&nbsp; <a href="#français">🇫🇷 Français</a></div>
-
-### `> chi_sono`
-
-**IT Project Manager** orientato alla delivery, con radici concrete nello sviluppo full-stack e nell'ingegneria delle telecomunicazioni. Lavoro sull'intero ciclo di consegna — dall'allineamento con gli stakeholder e raccolta dei requisiti fino all'esecuzione tecnica e all'infrastruttura.
-
-Il mio background ingegneristico mi permette di parlare entrambi i linguaggi: **business** e **codice**.
-
----
-
-### `> competenze --lista`
-
 <div align="center">
 
-**🗂 Project Management**
-
-![Agile](https://img.shields.io/badge/Agile-1c1c2e?style=flat-square&logo=scrumalliance&logoColor=7c83fd)
-![Scrum](https://img.shields.io/badge/Scrum-1c1c2e?style=flat-square&logo=jira&logoColor=7c83fd)
-![Coordinamento_Delivery](https://img.shields.io/badge/Coordinamento_Delivery-1c1c2e?style=flat-square&logoColor=white)
-![Gestione_Stakeholder](https://img.shields.io/badge/Gestione_Stakeholder-1c1c2e?style=flat-square&logoColor=white)
-![Monitoraggio_Rischi](https://img.shields.io/badge/Monitoraggio_Rischi-1c1c2e?style=flat-square&logoColor=white)
-![Analisi_Requisiti](https://img.shields.io/badge/Analisi_Requisiti-1c1c2e?style=flat-square&logoColor=white)
-
-**💻 Sviluppo**
-
-![Flutter](https://img.shields.io/badge/Flutter-1c1c2e?style=flat-square&logo=flutter&logoColor=54c5f8)
-![Dart](https://img.shields.io/badge/Dart-1c1c2e?style=flat-square&logo=dart&logoColor=54c5f8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c2e?style=flat-square&logo=javascript&logoColor=f7df1e)
-![REST API](https://img.shields.io/badge/REST_APIs-1c1c2e?style=flat-square&logo=fastapi&logoColor=7c83fd)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1c1c2e?style=flat-square&logo=html5&logoColor=e34f26)
-![Unity](https://img.shields.io/badge/Unity-1c1c2e?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1c1c2e?style=flat-square&logo=csharp&logoColor=9b59b6)
-
-**🛠 Infrastruttura & Embedded**
-
-![cPanel](https://img.shields.io/badge/cPanel-1c1c2e?style=flat-square&logo=cpanel&logoColor=ff6c2c)
-![Linux](https://img.shields.io/badge/Linux-1c1c2e?style=flat-square&logo=linux&logoColor=fcc624)
-![STM32](https://img.shields.io/badge/STM32-1c1c2e?style=flat-square&logo=stmicroelectronics&logoColor=03234b)
-![FPGA](https://img.shields.io/badge/FPGA_Nano_9K-1c1c2e?style=flat-square&logoColor=white)
+## 🚀 Featured Projects
 
 </div>
 
----
+<br/>
 
-### `> carriera --timeline`
-
-```
- 2024 – presente
-```
-**IT Project Manager** — Progetti EU & Internazionali
-> Coordinamento della delivery, Agile/Scrum, gestione degli stakeholder, analisi dei requisiti, monitoraggio dei rischi. Operativo su piattaforme web, app mobile, integrazioni API e infrastruttura hosting.
-
-`Agile` `Scrum` `Gestione Stakeholder` `Monitoraggio Rischi` `API Integration` `cPanel`
-
----
-
-```
- Mar 2025 – Ott 2025
-```
-**Docente / Esperto di Istruzione** — Corsi PNRR *(Piano Nazionale di Ripresa e Resilienza)*
-> Docenza in corsi di Gamification, Coding e Cybersecurity rivolti sia a studenti che ad adulti, nell'ambito del programma di formazione digitale finanziato dal PNRR.
-
-`Gamification` `Coding` `Cybersecurity` `Formazione Digitale` `PNRR`
-
----
-
-```
- 2020 – 2022
-```
-**Game Developer** — MobyBit *(Start-up, Videogiochi)*
-> Sviluppo di videogiochi in un ambiente start-up dinamico. Lavoro su meccaniche di gioco, logica e sistemi interattivi con Unity e C#.
-
-`Unity` `C#` `Game Development` `Start-up`
-
----
-
-```
- fondamenta
-```
-**Full-Stack Developer & Ingegnere delle Telecomunicazioni**
-> Solide basi tecniche che spaziano dallo sviluppo web, alle app mobile, ai sistemi embedded (STM32) e alla prototipazione FPGA.
-
-`Flutter` `Dart` `JavaScript` `HTML/CSS` `STM32` `FPGA`
-
----
-
-### `> progetti --in_evidenza`
-
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🚆 Sistema di Gestione Ferroviaria**
+### 🚆 Train Management System
+Business-oriented app with structured workflow logic and management features.
 
-Applicazione orientata al business con focus sulla logica dei workflow, funzionalità gestionali e architettura strutturata.
-
-`Project Management` `Backend Logic` `Architettura`
+![PM](https://img.shields.io/badge/Project_Mgmt-6c63ff?style=flat-square) ![Arch](https://img.shields.io/badge/Architecture-6c63ff?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**📱 Flutter Auth Demo**
+### 📱 Flutter Auth Demo
+Auth prototype — login flow, form validation, scalable structure.
 
-Prototipo di autenticazione con focus sul flusso di login, validazione dei form e struttura app scalabile.
-
-`Flutter` `Dart` `Mobile`
+![Flutter](https://img.shields.io/badge/Flutter-38bdf8?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-38bdf8?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🎮 Prototipo Gioco Bomberman**
+### 🎮 Bomberman Prototype
+Gameplay logic, interaction design and software architecture.
 
-Progetto di gioco per esplorare logica di gameplay, interaction design e pattern architetturali.
-
-`Game Logic` `OOP` `Interaction Design`
+![Unity](https://img.shields.io/badge/Game_Logic-a78bfa?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-a78bfa?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**⚙️ Progetti Embedded STM32**
+### ⚙️ STM32 Embedded Projects
+Microcontroller experiments — peripherals & low-level logic.
 
-Esperimenti pratici su microcontrollori con periferiche e logica embedded a basso livello.
-
-`C/C++` `STM32` `Embedded`
+![STM32](https://img.shields.io/badge/STM32-94a3b8?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-94a3b8?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🔌 Progetti FPGA Nano 9K**
+### 🔌 FPGA Nano 9K Projects
+Digital design and hardware prototyping experiments.
 
-Design digitale e prototipazione FPGA per la risoluzione di problemi hardware.
-
-`FPGA` `Verilog/VHDL` `Digital Design`
+![FPGA](https://img.shields.io/badge/FPGA-94a3b8?style=flat-square) ![HDL](https://img.shields.io/badge/Verilog-94a3b8?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**➕ In arrivo...**
-
-Sempre in sperimentazione all'incrocio tra management, software e hardware.
+### ✨ More coming soon
+Always experimenting at the intersection of management, software and hardware.
 
 </td>
 </tr>
 </table>
-
----
-
-### `> cosa_porto`
-
-```
-✔  Forte orientamento alla delivery — dal kickoff alla produzione
-✔  Ponte tra stakeholder di business e team di sviluppo
-✔  Comprensione tecnica concreta (non solo specifiche)
-✔  Comunicazione strutturata e chiara a ogni livello
-✔  Adattabilità in contesti internazionali e multidisciplinari
-✔  Fluente in italiano, inglese e francese
-```
-
-<div align="right"><a href="#italiano">⬆ torna su</a></div>
-
-<br/>
-
----
----
-
-<br/>
-
-<!-- ============================================================ -->
-<!--                        🇫🇷  FRANÇAIS                         -->
-<!-- ============================================================ -->
-
-<h2 id="français">🇫🇷 Français</h2>
-
-<div align="right"><a href="#english">🇬🇧 English</a> &nbsp;|&nbsp; <a href="#italiano">🇮🇹 Italiano</a></div>
-
-### `> qui_suis_je`
-
-**IT Project Manager** orienté delivery, avec des racines solides dans le développement full-stack et l'ingénierie des télécommunications. J'interviens sur l'ensemble du cycle de livraison — de l'alignement des parties prenantes et la collecte des exigences jusqu'à l'exécution technique et l'infrastructure.
-
-Mon background en ingénierie me permet de parler les deux langages : **business** et **code**.
-
----
-
-### `> compétences --liste`
-
-<div align="center">
-
-**🗂 Gestion de Projet**
-
-![Agile](https://img.shields.io/badge/Agile-1c1c2e?style=flat-square&logo=scrumalliance&logoColor=7c83fd)
-![Scrum](https://img.shields.io/badge/Scrum-1c1c2e?style=flat-square&logo=jira&logoColor=7c83fd)
-![Coordination_Delivery](https://img.shields.io/badge/Coordination_Delivery-1c1c2e?style=flat-square&logoColor=white)
-![Gestion_Parties_Prenantes](https://img.shields.io/badge/Gestion_Parties_Prenantes-1c1c2e?style=flat-square&logoColor=white)
-![Suivi_des_Risques](https://img.shields.io/badge/Suivi_des_Risques-1c1c2e?style=flat-square&logoColor=white)
-![Analyse_des_Exigences](https://img.shields.io/badge/Analyse_des_Exigences-1c1c2e?style=flat-square&logoColor=white)
-
-**💻 Développement**
-
-![Flutter](https://img.shields.io/badge/Flutter-1c1c2e?style=flat-square&logo=flutter&logoColor=54c5f8)
-![Dart](https://img.shields.io/badge/Dart-1c1c2e?style=flat-square&logo=dart&logoColor=54c5f8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c2e?style=flat-square&logo=javascript&logoColor=f7df1e)
-![REST API](https://img.shields.io/badge/REST_APIs-1c1c2e?style=flat-square&logo=fastapi&logoColor=7c83fd)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1c1c2e?style=flat-square&logo=html5&logoColor=e34f26)
-![Unity](https://img.shields.io/badge/Unity-1c1c2e?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1c1c2e?style=flat-square&logo=csharp&logoColor=9b59b6)
-
-**🛠 Infrastructure & Embarqué**
-
-![cPanel](https://img.shields.io/badge/cPanel-1c1c2e?style=flat-square&logo=cpanel&logoColor=ff6c2c)
-![Linux](https://img.shields.io/badge/Linux-1c1c2e?style=flat-square&logo=linux&logoColor=fcc624)
-![STM32](https://img.shields.io/badge/STM32-1c1c2e?style=flat-square&logo=stmicroelectronics&logoColor=03234b)
-![FPGA](https://img.shields.io/badge/FPGA_Nano_9K-1c1c2e?style=flat-square&logoColor=white)
-
 </div>
 
 ---
 
-### `> carrière --timeline`
+<div align="center">
 
-```
- 2024 – présent
-```
-**IT Project Manager** — Projets UE & Internationaux
-> Coordination de la delivery, Agile/Scrum, gestion des parties prenantes, analyse des exigences, suivi des risques. Intervention sur plateformes web, applications mobiles, intégrations API et infrastructure d'hébergement.
-
-`Agile` `Scrum` `Gestion Parties Prenantes` `Suivi Risques` `API Integration` `cPanel`
-
----
-
-```
- Mar 2025 – Oct 2025
-```
-**Enseignant / Expert en Éducation** — Cours PNRR *(Plan National de Relance et Résilience italien)*
-> Animation de formations en Gamification, Coding et Cybersécurité destinées à des étudiants et des adultes, dans le cadre du programme d'éducation numérique financé par le PNRR.
-
-`Gamification` `Coding` `Cybersécurité` `Formation Numérique` `PNRR`
-
----
-
-```
- 2020 – 2022
-```
-**Game Developer** — MobyBit *(Start-up, Jeux Vidéo)*
-> Développement de jeux vidéo dans un environnement start-up dynamique. Travail sur les mécaniques de jeu, la logique et les systèmes interactifs avec Unity et C#.
-
-`Unity` `C#` `Game Development` `Start-up`
-
----
-
-```
- fondations
-```
-**Développeur Full-Stack & Ingénieur Télécom**
-> Bases techniques solides couvrant le développement web, les applications mobiles, les systèmes embarqués (STM32) et le prototypage FPGA.
-
-`Flutter` `Dart` `JavaScript` `HTML/CSS` `STM32` `FPGA`
-
----
-
-### `> projets --à_la_une`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚆 Système de Gestion Ferroviaire**
-
-Application orientée métier axée sur la logique des workflows, les fonctionnalités de gestion et la conception structurée.
-
-`Gestion de Projet` `Backend Logic` `Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-**📱 Flutter Auth Demo**
-
-Prototype d'authentification axé sur le flux de connexion, la validation de formulaires et une architecture scalable.
-
-`Flutter` `Dart` `Mobile`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 Prototype Jeu Bomberman**
-
-Projet de jeu pour explorer la logique de gameplay, l'interaction design et les patterns architecturaux.
-
-`Game Logic` `OOP` `Interaction Design`
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Projets Embarqués STM32**
-
-Expérimentations pratiques sur microcontrôleurs avec périphériques et logique bas niveau.
-
-`C/C++` `STM32` `Embarqué`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔌 Projets FPGA Nano 9K**
-
-Design numérique et prototypage FPGA axé sur l'expérimentation hardware.
-
-`FPGA` `Verilog/VHDL` `Digital Design`
-
-</td>
-<td width="50%" valign="top">
-
-**➕ Bientôt disponible...**
-
-Toujours en expérimentation à l'intersection du management, du logiciel et du hardware.
-
-</td>
-</tr>
-</table>
-
----
-
-### `> ce_que_j'apporte`
-
-```
-✔  Fort état d'esprit delivery — du kickoff à la production
-✔  Pont entre les parties prenantes métier et les équipes dev
-✔  Compréhension technique concrète (pas seulement des specs)
-✔  Communication structurée et claire à tous les niveaux
-✔  Adaptabilité dans des contextes internationaux et multidisciplinaires
-✔  Courant en italien, anglais et français
-```
-
-<div align="right"><a href="#français">⬆ retour en haut</a></div>
+## 💬 Languages
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/🇮🇹%20Italian-Native-6c63ff?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🇬🇧%20English-Fluent-6c63ff?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🇫🇷%20French-Fluent-6c63ff?style=for-the-badge"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<br/><br/>
 
 *Let's build something worth delivering.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
